@@ -9,5 +9,6 @@ Object.defineProperty(exports, "MyModal", {
     return _MyModal.default;
   }
 });
+require("./styles.css");
 var _MyModal = _interopRequireDefault(require("./MyModal"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
